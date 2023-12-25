@@ -6,7 +6,7 @@ def getvals():
 
 def cbutton1():
     if Checkbutton:
-        print("The person is ready to take class in sunday")
+        print("The person is ready to take classes in sunday")
         
 
 def cbutton2():
